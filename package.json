@@ -1,0 +1,19 @@
+{
+  "name": "twil",
+  "version": "1.0.0",
+  "description": "testing twillios API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "good": "^6.1.3",
+    "good-console": "hapijs/good-console",
+    "hapi": "^8.4.0",
+    "request": "^2.55.0",
+    "twilio": "^2.2.0",
+    "utorrent-api": "^0.1.4"
+  }
+}
